@@ -12,13 +12,13 @@ let dados = [
       tags: "fullbring",
     },
     {
-      titulo: "Inoue Orihime",
+      titulo: "Inoue",
       descricao: "Orihime Inoue (井上 織姫, Inoue Orihime) é uma humana que vive na cidade de Karakura. Ela é uma ex-aluna da Karakura High School. Ela é casada com Ichigo Kurosaki e tem um filho chamado Kazui Kurosaki.",
       link: "https://bleach.fandom.com/pt/wiki/Orihime_Inoue",
       tags: "fullbring",
     },
     {
-      titulo: "Uryū Ishida",
+      titulo: "Ishida",
       descricao: "Uryū Ishida (石田雨竜, Ishida Uryū), é um Quincy, habitante da cidade de Karakura. Geralmente uma pessoa fria e bastante orgulhosa, Uryū mostra-se prestativo e defensor quando ameaçados seus amigos. Apesar de seu viés Quincy anti-shinigami, ele todavia desenvolve uma amizade por Ichigo Kurosaki, além de Rukia Kuchiki e Renji Abarai",
       link: "https://bleach.fandom.com/pt/wiki/Uryū_Ishida",
       tags: "quincy",
